@@ -279,5 +279,6 @@ Users are responsible for complying with:
 # Author
 
 Farhan Ali
+
 AI Engineer | Computer Vision Engineer | Automation Developer
 Feel free to contribute, fork, or submit pull requests.
