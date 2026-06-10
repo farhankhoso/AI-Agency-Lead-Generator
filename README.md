@@ -1,6 +1,6 @@
 # AI Agency Lead Generator
 
-An AI-powered lead generation platform built with **Streamlit**, **Playwright**, and **Groq LLMs**.
+An AI-powered Open source lead generation platform built with **Streamlit**, **Playwright**, and **Groq LLMs**.
 
 The application automatically scrapes business listings from Google Maps, analyzes each lead using AI, scores their potential value, identifies business pain points, and generates personalized outreach messages ready for WhatsApp or Email campaigns.
 
