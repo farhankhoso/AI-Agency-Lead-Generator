@@ -129,7 +129,7 @@ GROQ_API_KEY=your_groq_api_key
 ```
 
 ### Note
-
+Groq API is free you can search "Groq API" in google and get free API 
 If no Groq API key is provided:
 
 * Google Maps scraping will still work
